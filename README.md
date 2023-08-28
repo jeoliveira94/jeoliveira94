@@ -2,9 +2,9 @@
     <span>José Eduardo Oliveira</span>
 </h1>
 
-<p align="justify">Programador Backend, graduado em Ciência da Computação pela Universidade Federal do Maranhão no ano de 2022. Durante graduado fiquei fascinado por arquitetura de software, padrões de projeto e como algumas abordagens já bem desenvolvidas são usadas para desenvolver software de qualidade, de fácil manutenção.</p>
+<p align="justify">Backend Developer, graduated in Computer Science from the Federal University of Maranhão in the year 2022. During graduation I was fascinated by software architecture, design patterns and how some well-developed approaches are used to develop quality, easy-to-maintain software. I'm currently studying The Architecture of Open Source Applications, feel free to get in touch and talk about it.</p>
 
-<h3 align="left">Contatos</h3>
+<h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=008DC0&color:FFF)](mailto:eduardo.jeso@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=008DC0&color:FFF)](https://www.linkedin.com/in/jeoliveira94/)
