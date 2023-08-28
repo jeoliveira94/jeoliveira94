@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>
+    <span>José Eduardo Oliveira</span>
+</h1>
 
-<!--
-**jeoliveira94/jeoliveira94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justify">Programador Backend, graduado em Ciência da Computação pela Universidade Federal do Maranhão no ano de 2022. Durante graduado fiquei fascinado por arquitetura de software, padrões de projeto e como algumas abordagens já bem desenvolvidas são usadas para desenvolver software de qualidade, de fácil manutenção.</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Contatos</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=008DC0&color:FFF)](mailto:eduardo.jeso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=008DC0&color:FFF)](https://www.linkedin.com/in/jeoliveira94/)
+
+<h3 align="left">GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeoliveira94&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=008DC0&text_color=FFF&border_radius=3&border_color=008DC0&icon_color=008DC0&theme=transparent)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeoliveira94&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=008DC0&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=008DC0&count_private=true)
+
+<br>
+
+<details align="left">
+  <summary></summary> 
+  
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  
+</details>
