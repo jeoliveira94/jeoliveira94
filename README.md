@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=008DC0&color:FFF)](mailto:eduardo.jeso@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=008DC0&color:FFF)](mailto:oliveiras.je94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=008DC0&color:FFF)](https://www.linkedin.com/in/jeoliveira94/)
 
 <h3 align="left">GitHub Stats</h3>
