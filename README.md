@@ -1,8 +1,8 @@
 <h1>
-    <span>José Eduardo Oliveira</span>
+    <span>José Oliveira</span>
 </h1>
 
-<p align="justify">Backend Developer, graduated in Computer Science from the Federal University of Maranhão in the year 2022. During graduation I was fascinated by software architecture, design patterns and how some well-developed approaches are used to develop quality, easy-to-maintain software. I'm currently studying The Architecture of Open Source Applications, feel free to get in touch and talk about it.</p>
+<p align="justify">Hi, I’m José Oliveira, a Computer Science graduate from the Federal University of Maranhão with experience in mobile and web development. I currently work as a Full-Stack Developer, building scalable applications using Angular, Spring Boot, and PostgreSQL. In addition to my professional work, I’m passionate about mobile development and enjoy working on side projects with Kotlin, where I explore new technologies and sharpen my skills. I’m always eager to learn, collaborate, and contribute to meaningful projects. Feel free to check out my repositories and connect with me!</p>
 
 <h3 align="left">Connect with me</h3>
 
